@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/CERSEU/Modulo 1/Proyecto_03/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/CERSEU/semana_01/.venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="~\PYTHON\CERSEU\clase_modulo_01" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings" />
