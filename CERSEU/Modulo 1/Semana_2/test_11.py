@@ -1,0 +1,4 @@
+"""
+Operadores comunes
+Operador: Resta ()
+"""
