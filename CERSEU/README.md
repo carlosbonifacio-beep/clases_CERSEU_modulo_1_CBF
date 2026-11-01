@@ -1,21 +1,7 @@
+#
+# Curso: Especialización en Python
+## Nivel: Modulo I
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Giorgia Te Quierooooo Demasiado
-## Gracias por toda la felicidad, alegria y todo lo que mes das
-
-- Eres importante para mi
-- Eres en quien pienso y busco si tengo algun mensaje
-- No dudes lo muy importante que eres para mi
+- **Lugar:** CERSEU - UNMSM
+- **Alumno:** Carlos 
+- **Profesor:** Anthony Carrillo
